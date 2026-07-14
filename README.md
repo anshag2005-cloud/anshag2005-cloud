@@ -116,6 +116,14 @@ https://github.com/anshag2005-cloud/ResumeForge
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshag2005-cloud/anshag2005-cloud/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
 # 🎯 Interests
 
 - Artificial Intelligence
