@@ -6,7 +6,7 @@
 
 ### Data Science Engineer • AI Enthusiast • Formula Student Engineer 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Final+Year+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+AI+Powered+Solutions;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+AI+Powered+Solutions;Always+Learning+Something+New"/>
 
 <br>
 
