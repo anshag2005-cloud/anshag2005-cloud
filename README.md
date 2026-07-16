@@ -1,10 +1,18 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:0F172A,100:06B6D4&text=Shivansh%20Agrawal&fontColor=FFFFFF&fontSize=46&animation=fadeIn"/>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+anshag2005-cloud...;%3E+Loading+Data+Science+Portfolio...;%3E+Analyzing+Data...;%3E+Building+Machine+Learning+Models...;%3E+Exploring+AI+%26+Data+Visualization..."/>
+</p>
 
-# Hi, I'm Shivansh Agrawal 👋
+<h1 align="center">
+  Hi 👋, I'm Shivansh Agrawal
+</h1>
 
 ### Data Science Engineer • AI Enthusiast • Formula Student Engineer 🇮🇳
+
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+AI+Powered+Solutions;Always+Learning+Something+New"/>
 
