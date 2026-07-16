@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:0F172A,100:06B6D4&text=Shivansh%20Agrawal&fontColor=FFFFFF&fontSize=46&animation=fadeIn"/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+anshag2005-cloud...;%3E+Loading+Data+Science+Portfolio...;%3E+Analyzing+Data...;%3E+Building+Machine+Learning+Models...;%3E+Exploring+AI+%26+Data+Visualization..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Initializing+anshag2005-cloud...;%3E+Loading+Data+Science+Portfolio...;%3E+Analyzing+Data...;%3E+Building+Machine+Learning+Models...;%3E+Exploring+AI+%26+Data+Visualization..."/>
 </p>
 
 <h1 align="center">
